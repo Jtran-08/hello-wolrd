@@ -1,7 +1,7 @@
 # hello-wolrd
-Heyo another repository
+Heyo just another repository
 
-Heyo Corna still around
+Heyo Corona still around
 Great opportunity to shut in and learn new things
 
 Had Wing Stop for lunch today
